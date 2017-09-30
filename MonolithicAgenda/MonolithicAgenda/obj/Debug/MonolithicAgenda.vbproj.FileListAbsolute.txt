@@ -1,0 +1,12 @@
+c:\users\julian\documents\visual studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.exe.config
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.exe
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.vbprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.FAgenda.resources
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.FConection.resources
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.Resources.resources
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.vbproj.GenerateResource.Cache
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.exe
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.pdb
