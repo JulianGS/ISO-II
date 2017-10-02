@@ -14,7 +14,7 @@ Public Class DAOContact
     End Property
     'Funcionalidad de añadir un contacto
     Public Sub insert(contacto As Contact)
-        myManager.modify("INSERT INTO CONTACTOS (contact,Number) VALUES ('" & contacto.myName & "','" & contacto.myNumber & "');")
+        myManager.modify("INSERT INTO CONTACTOS (number,contact) VALUES ('" & contacto.myNumber & "','" & contacto.myName & "');")
     End Sub
     'Funcionalidad de editar un contacto
     Public Sub update(contacto As Contact)

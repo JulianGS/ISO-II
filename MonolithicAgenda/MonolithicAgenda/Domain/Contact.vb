@@ -1,13 +1,13 @@
 ﻿Public Class Contact
     Private name As String
-    Private number As Long
+    Private number As String
     Private contactManager As DAOContact
 
     Sub New()
         contactManager = New DAOContact
     End Sub
 
-    Sub New(ByVal number As Long)
+    Sub New(ByVal number As String)
         contactManager = New DAOContact
         Me.number = number
     End Sub
@@ -31,11 +31,11 @@
         End Set
     End Property
 
-    Public Property myNumber As Long
+    Public Property myNumber As String
         Get
             Return number
         End Get
-        Set(value As Long)
+        Set(value As String)
             number = value
         End Set
     End Property
